@@ -9,6 +9,7 @@
 ![blog](https://postfiles.pstatic.net/MjAxOTEyMjNfMjkg/MDAxNTc3MTA0ODk5NTAz.dgsxPDjV5CtZCQ2A8TkPNEJ0WYPMWnRd4acN7wHgxNog.s9d-VjMpiE33U42bnxA1PW1LHMS7R5YV8JfEmVK0W_kg.PNG.getinthere/Screenshot_82.png?type=w773)
 
 #### 1. application.yml
+```yml
 server:
   port: 8443
   ssl:
